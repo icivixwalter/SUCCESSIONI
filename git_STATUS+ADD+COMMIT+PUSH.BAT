@@ -1,5 +1,5 @@
 @REM  cd.. devi posizionarti su git_desktop
-CD c:\CASA\LINGUAGGI\ACCESS\PROGETTI_MDB\MSYS_OGGETTI\MENU\
+CD c:\CASA\CDM\ViaLiguriaGuidonia\CALCOLI_WALTER_LUISA\SUCCESSIONI\
 
 dir 
 
